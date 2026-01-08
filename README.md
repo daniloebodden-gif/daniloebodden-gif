@@ -11,5 +11,5 @@ I am particularly interested in the intersection of **AI and cybersecurity**, in
 My long-term goal is to become a **Security Engineer and Researcher**, contributing to the defense of modern systems against evolving cyber threats and emerging technologies.
 
 **Connect with me:**  
-[LinkedIn]([httpswww.linkedin.com/in/daniloebodden](https://www.linkedin.com/in/daniloebodden/))
+[LinkedIn](https://www.linkedin.com/in/daniloebodden/)
 
